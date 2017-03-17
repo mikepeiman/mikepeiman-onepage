@@ -1,0 +1,795 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background"
+			],
+			[
+				"com",
+				"component"
+			],
+			[
+				"rot",
+				"rotateLogo"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"webkit-background-clip"
+			],
+			[
+				"bac",
+				"background-clip"
+			],
+			[
+				"background-",
+				"background-clip"
+			],
+			[
+				"border",
+				"item-border-width"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-im",
+				"border-image-slice"
+			],
+			[
+				"base-",
+				"base-border-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"item-border-color"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"base-b",
+				"base-border"
+			],
+			[
+				"bas",
+				"base-background"
+			],
+			[
+				"newT",
+				"newTimestamp"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"age",
+				"ageSum"
+			],
+			[
+				"this",
+				"thisWoman"
+			],
+			[
+				"name",
+				"nameToSearch"
+			],
+			[
+				"pro",
+				"propertyName"
+			],
+			[
+				"flatten",
+				"flattenArrayOfArrays"
+			],
+			[
+				"con",
+				"conArray"
+			],
+			[
+				"typ",
+				"typeOf2"
+			],
+			[
+				"type",
+				"typeOf1"
+			],
+			[
+				"thi",
+				"thisItem"
+			],
+			[
+				"list",
+				"listToArray"
+			],
+			[
+				"id",
+				"idNum"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"outpu",
+				"outputId"
+			],
+			[
+				"arra",
+				"arrayToList2"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"r",
+				"inherit"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"first",
+				"first-of-type"
+			],
+			[
+				"table-",
+				"table-background"
+			],
+			[
+				"char",
+				"charCounter"
+			],
+			[
+				"table-border",
+				"table-border-color"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"siz",
+				"background-size"
+			],
+			[
+				"backgroun",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: sass",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 571.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Web/mikepeiman"
+	],
+	"file_history":
+	[
+		"/D/Web/template-onepager/index.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/thank-you.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/industry-survey-thank-you.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/utility/formmail.php",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/error.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/contact.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/industry-survey.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/industry-survey-page-2.php",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/index.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/privacy.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/products.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/resources.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/terms.html",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/base/_variables.css",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/base/_base.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/plugins-dir.sass",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/base/_buttons.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/bourbon/_bourbon.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/base/_grid-settings.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/base/_forms.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/css/app.sass",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/css/app.css",
+		"/C/Users/Mike/AppData/Local/Temp/Temp1_html5up-dimension.zip/README.txt",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/base/_variables.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/base/_typography.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/0-plugins/bourbon/addons/_text-inputs.scss",
+		"/C/Users/Mike/Desktop/Websites/Tulip Website - production/thanks.html",
+		"/C/Users/Mike/Downloads/transcript.txt",
+		"/C/Users/Mike/Backup and Archive/sms.xsl",
+		"/C/Users/Mike/Downloads/Unconfirmed 127035.crdownload",
+		"/C/Users/Mike/Desktop/Websites/jekyll-gulp-sass-browser-sync-master/gulpfile.js",
+		"/C/Users/Mike/Desktop/Websites/slate/source/index.html.md",
+		"/C/Users/Mike/Desktop/Websites/slate/source/stylesheets/_variables.scss",
+		"/D/Movies/Chuggington.S02E15.Next.Stop.Space.WS.PDTV.XviD-CBB [NO-RAR] - [ www.torrentday.com ]/Please Read This Guide Now.txt",
+		"/C/Users/Mike/Documents/FastNotepad/David 604 849 1166 balance guy from whisler bungee.txt",
+		"/C/Users/Mike/Documents/FastNotepad/wins and sins daily tracking app.txt",
+		"/C/Users/Mike/Desktop/Web Dev Projects/simple-app/scripts.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/simple-app/styles.scss",
+		"/C/Users/Mike/Desktop/Web Dev Projects/simple-app/TweenMax.min.js",
+		"/C/Users/Mike/Pictures/mikepeiman-logo-v4-fill.png",
+		"/C/Users/Mike/Pictures/mikepeiman-logo-v4-empty.png",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_site/main.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_site/index.html",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_jadefiles/header.jade",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/main.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_js/scripts.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_scss/0-base/_styles.scss",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_jadefiles/main-page.jade",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_jadefiles/gallery-large.jade",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_jadefiles/gallery-medium.jade",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_jadefiles/gallery-small.jade",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_site/css/main.css",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_jadefiles/about.jade",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_jadefiles/hello.jade",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_includes/hello.html",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_scss/0-base/_styles.css.map",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_scss/0-base/_styles.css",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_scss/main.scss",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/_scss/main.css",
+		"/C/Users/Mike/Desktop/Web Dev Projects/jekyll-gulp-sass-browser-sync-master/package.json",
+		"/C/Users/Mike/Desktop/Web Dev Projects/gumba-0.1.0/css/main.css.map",
+		"/D/VC_RED.cab",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/Mike/Desktop/Web Dev Projects/lwl/index.html",
+		"/C/Users/Mike/Desktop/Web Dev Projects/FreeCodeCamp/FCC-frontend-project-1-tribute-page.html",
+		"/C/Users/Mike/Desktop/Web Dev Projects/FreeCodeCamp/tribute-bucky-style.css",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Mike/Desktop/Web Dev Projects/myapp/package.json",
+		"/C/Users/Mike/Desktop/Web Dev Projects/myapp/README.md",
+		"/C/Users/Mike/Desktop/Web Dev Projects/eloquentJavascript/ancestry-page.js",
+		"/C/Users/Mike/Desktop/Web Dev Resources/todoist-export-master/node_modules/jade/jade.md",
+		"/C/Users/Mike/Desktop/Web Dev Resources/todoist-export-master/app.js",
+		"/C/Users/Mike/Desktop/Web Dev Resources/todoist-export-master/node_modules/jade/runtime.js",
+		"/C/Users/Mike/Desktop/Web Dev Resources/todoist-export-master/.gitignore",
+		"/C/Users/Mike/Documents/TODOist backup/2-16-2016/Accounts & Admin [125958753].txt",
+		"/C/Users/Mike/Documents/TODOist backup/2-16-2016/Books to read [144916356].txt",
+		"/C/Users/Mike/Desktop/Web Dev Projects/eloquentJavascript/arrayToList.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/eloquentJavascript/js/arrayToList.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/eloquentJavascript/elemental-v0.2.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/sublime-text-3-regedit.bat",
+		"/C/Users/Mike/Desktop/Web Dev Projects/bourbon-project-1/js/tablesaw.stackonly.js",
+		"/C/Users/Mike/Desktop/Web Dev Projects/bourbon-project-1/css/.sassbuilder-config.json",
+		"/C/Users/Mike/Desktop/Web Dev Projects/bourbon-project-1/pinegrow.json",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/js/app.js",
+		"/C/Users/Mike/Desktop/Websites/lwl/index.html",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/css/app.sass",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/js/tabs.js",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/2-modules/_cards.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/2-modules/_simple-tables.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/eloquentJavascript/chessboard.js",
+		"/C/Users/Mike/Desktop/webdev-projects/eloquentJavascript/countChar.js",
+		"/C/Users/Mike/Desktop/webdev-projects/eloquentJavascript/recursion.js",
+		"/C/Users/Mike/Desktop/webdev-projects/eloquentJavascript/basics_arrays.js",
+		"/C/Users/Mike/Desktop/webdev-projects/fizzbuzz.css",
+		"/C/Users/Mike/Desktop/webdev-projects/fizzbuzz.html",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/js/_topnav.js",
+		"/C/Users/Mike/Desktop/TULIP/tulip-product-list-by-model-and-memory.csv",
+		"/C/Users/Mike/Desktop/TULIP/tulip-product-list-by-model-and-memory-2.csv",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/css/app.css",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/js/tablesaw.stackonly.js",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/css/tablesaw.stackonly.css",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/index-backup-cards-11-25-2015.html",
+		"/C/Users/Mike/Desktop/tulip-product-list.csv",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/0-plugins/bitters/_base.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/0-plugins/bitters/_grid-settings.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/0-plugins/bitters/_variables.scss",
+		"/C/Users/Mike/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/bourbon-tulip.sublime-project",
+		"/C/Users/Mike/Desktop/tulip product list.csv",
+		"/C/Users/Mike/Desktop/tulip-product-list.txt",
+		"/C/Users/Mike/Desktop/webdev-projects/f5-tulip/css/custom.css",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/css/.sassbuilder-config.json",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/main.sass",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/3-layouts/layouts-dir.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/2-modules/modules-dir.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/1-base/base-dir.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/0-plugins/plugins-dir.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/app.scss",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/index.html",
+		"/C/Users/Mike/Desktop/webdev-projects/bourbon-project-1/css/main.scss",
+		"/C/Users/Mike/AppData/Roaming/Adobe/Adobe Illustrator CS6 Settings/en_US/x64/AIPrefs",
+		"/C/Users/Mike/Pictures/_LifeIQ example from workflowy 11-12-2015 v2.ai",
+		"/C/Users/Mike/Documents/atom-context.reg",
+		"/C/Users/Mike/Desktop/Web dev projects/f5-tulip/pinegrow.json",
+		"/C/Users/Mike/Desktop/Websites/lwl/.git/info/exclude",
+		"/C/Users/Mike/Desktop/Websites/lwl/.git/config",
+		"/C/Users/Mike/Desktop/Websites/lwl/bower_components/foundation/scss/foundation/_settings.scss"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\Mike\\Desktop\\Web Dev Projects\\eloquentJavascript",
+			"*.scss",
+			"",
+			"C:\\Users\\Mike\\Desktop\\Websites\\lwl",
+			"C:\\Users\\Mike\\Desktop\\Websites\\lwl\\bower_components\\foundation\\scss",
+			"C:\\Users\\Mike\\Desktop\\Websites\\lwl",
+			"C:\\Users\\Mike\\Desktop\\Websites\\lwl\\bower_components\\foundation\\scss\\foundation\\components",
+			"C:\\Users\\Mike\\Desktop\\Websites\\lwl",
+			"C:\\Users\\Mike\\Desktop\\Websites\\lwl\\bower_components\\foundation\\scss\\foundation",
+			"C:\\Users\\Mike\\Desktop\\Websites\\workflowy\\bower_components\\foundation\\scss\\foundation",
+			"C:\\Users\\Mike\\Desktop\\Websites\\workflowy\\bower_components\\foundation\\scss\\foundation\\components",
+			"C:\\Users\\Mike\\Websites\\test3",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bg2",
+			"bg",
+			"text",
+			"First",
+			"all-buttons",
+			"all-text-inputs",
+			"color: ",
+			"initial",
+			"intial",
+			"color:",
+			"form-container",
+			"inner-content",
+			"inner",
+			"thank",
+			"thanks",
+			"thank",
+			"thanks",
+			"script",
+			"Click",
+			"home",
+			"shadow",
+			"5px",
+			"2px",
+			";\n",
+			"$item-border-width",
+			"hover",
+			"9952e0",
+			"efefef",
+			"5px",
+			"40",
+			":hover",
+			"hover",
+			"parent",
+			"parent-row",
+			"flex-row",
+			"parent-row",
+			"base-background",
+			"medium",
+			"small",
+			"2",
+			"i",
+			"\n",
+			" ",
+			"i",
+			"Array",
+			"r",
+			"co-md",
+			"25. Orbit",
+			"//  25. Orbit",
+			"</td>",
+			"<th>",
+			"</span></li>",
+			"</strong><span class=\"list-p\">",
+			"<li><strong>",
+			"</p></li>",
+			"</strong><p",
+			"<p",
+			"</li>",
+			"</strong>",
+			" - ",
+			"exercise-group",
+			"obj2",
+			"obj1",
+			"thing2",
+			"thing1",
+			"//",
+			"*.js",
+			"color",
+			"2",
+			"checkSubmit1",
+			"checksubmit",
+			"event",
+			"footer-secondary-links",
+			"company-name",
+			"resources",
+			"admin@",
+			".textarea",
+			"textarea",
+			"hover",
+			"form-container",
+			"                                <strong><abbr title=\"required\">*</abbr></strong>",
+			"firstName",
+			"db",
+			".ini",
+			"realname",
+			", ",
+			"ini",
+			"form",
+			"target_email",
+			"modal-close",
+			"modal-trigger",
+			"getth",
+			"font-size",
+			"0.1",
+			"}\n",
+			".tab-link",
+			"tab-link",
+			"100px",
+			"width",
+			" th ",
+			"th ",
+			"<th>",
+			"table-title",
+			"table-title a",
+			"tab-link",
+			".flip",
+			"section",
+			"77CFFF",
+			"input {",
+			"   55    background-color: #77cfff;\n#77cfff",
+			"input",
+			"caution",
+			"email",
+			"businessName",
+			"lastName",
+			"businessURL",
+			"firstName",
+			"<row>",
+			".row",
+			">\n",
+			"100px",
+			".flip",
+			"flip",
+			"border",
+			"table",
+			"white",
+			"first-",
+			"hidden"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hidden",
+			"Last",
+			"thank-you",
+			"",
+			"contact",
+			"blog",
+			"work",
+			"about",
+			"$nav-item-border-width",
+			"5px",
+			"active",
+			"59971B",
+			"976E1B",
+			"971B30",
+			"971B97",
+			"301B97",
+			"d9d9d9",
+			"2px",
+			"25",
+			"",
+			"active",
+			"flex",
+			"flex-row",
+			"base-background-color",
+			"large",
+			"medium",
+			"3",
+			"1",
+			"j",
+			"j\n",
+			",\n",
+			",",
+			"x",
+			"String",
+			"reduced",
+			"col-md",
+			"</td></tr>",
+			"<tr><th>",
+			"</td>",
+			"</th><td>",
+			"</th>",
+			"<th>",
+			"</span></li>",
+			"</strong><span",
+			"<span",
+			"</p></li>",
+			"</strong><p class=\"list-p\">",
+			"",
+			"program-group",
+			"y",
+			"x",
+			"y",
+			"x",
+			"",
+			"3",
+			"checkSubmit4",
+			"checkSubmit3",
+			"checkSubmit2",
+			"tulip-phone",
+			"",
+			"realname",
+			",",
+			"0.2",
+			"200px",
+			"<th class=\"headerCol\">",
+			"businessWebsite",
+			"phone",
+			"email",
+			"businessName",
+			"lastName",
+			"<div class=\"row\">",
+			"15%",
+			"hidden",
+			"tr",
+			"#77cf22",
+			" MB",
+			" KB",
+			"KB",
+			"MB",
+			"<tr><th>MITSUBISHI  ",
+			"<tr><th>YASNAC ",
+			"<tr><th>FANUC ",
+			"<tr><th>FANUC",
+			"border-color",
+			"27",
+			"26",
+			"25",
+			"24",
+			"23",
+			"22",
+			"21",
+			"20",
+			"19",
+			"18",
+			"17",
+			"16",
+			"15",
+			"14",
+			"13",
+			"12",
+			"\";",
+			"</th>",
+			"<th>",
+			"td class=\"model\" colspan=\"3\"",
+			"th",
+			"</td><td>",
+			"",
+			"</td>",
+			"</td></tr>\n<tr>",
+			"/td",
+			"<td class=\"model\">",
+			"<td class=\"model\">\n",
+			"\n",
+			"",
+			"</td><td>",
+			"th",
+			"td",
+			"th",
+			"\n",
+			"th",
+			",",
+			"",
+			",",
+			"</td><td>",
+			"<td>YASNAC",
+			"</td><td>",
+			"</td>",
+			"</td><td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "mikepeiman.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
